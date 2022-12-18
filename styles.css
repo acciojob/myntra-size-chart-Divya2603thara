@@ -1,15 +1,23 @@
 
 /* Your CSS Code here. */
 table{
-    border-collapse: collapse;
-    width: 100%;
+   background-color: black;
+   width: 80%;
+}
 
-}
-td,th{
-    border: 1px solid black;
-    padding: 10px;
-    text-align: center;
-}
 th{
-    background-color:red;
+    color: white;
+    background-color: #c94541;
+}
+.row1{
+    color: white;
+    background-color:#edbab8;
+}
+.row2{
+    color: white;
+    background-color: #e7dada;
+}
+.row3{
+    color: white;
+    background-color:  #aba8a8;
 }
